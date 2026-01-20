@@ -1,4 +1,4 @@
-## statki-terminal
+## battleship-terminal
 
 Gra w statki działająca w terminalu, napisana w C++.
 
